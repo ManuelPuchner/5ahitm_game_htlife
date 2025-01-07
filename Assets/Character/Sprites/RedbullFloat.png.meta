@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 4a4541f9966614449a79b5889868ecd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4320473283983800890
+    second: RedbullFloat_0
+  - first:
+      213: 5043833479073941088
+    second: RedbullFloat_1
+  - first:
+      213: 1892844606969855066
+    second: RedbullFloat_2
+  - first:
+      213: -5571540227187257909
+    second: RedbullFloat_3
+  - first:
+      213: 5458430647335039743
+    second: RedbullFloat_4
+  - first:
+      213: 8162889701229154508
+    second: RedbullFloat_5
+  - first:
+      213: 5978495619422378251
+    second: RedbullFloat_6
+  - first:
+      213: 6433052055582518018
+    second: RedbullFloat_7
+  - first:
+      213: 6679259188589219064
+    second: RedbullFloat_8
+  - first:
+      213: 3082569958176617149
+    second: RedbullFloat_9
+  - first:
+      213: 9053821168549408754
+    second: RedbullFloat_10
+  - first:
+      213: -7902592927728812159
+    second: RedbullFloat_11
+  - first:
+      213: 3530221427921977745
+    second: RedbullFloat_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedbullFloat_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 268
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5849660789a04c0800000000000000
+      internalID: -4320473283983800890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 271
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.5242187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066cc6a63db4ff540800000000000000
+      internalID: 5043833479073941088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 274
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5645832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cb37d242cb44a10800000000000000
+      internalID: 1892844606969855066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 280
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.61302054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd44b2cea9eda2b0800000000000000
+      internalID: -5571540227187257909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 285
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57265604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b285f0cd30cb40800000000000000
+      internalID: 5458430647335039743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 154
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49047813, y: 0.58072895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc055763fe8684170800000000000000
+      internalID: 8162889701229154508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 152
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5095215, y: 0.54843736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0956e62712e7f250800000000000000
+      internalID: 5978495619422378251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 150
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54440093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba792c2cac64950800000000000000
+      internalID: 6433052055582518018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 148
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.5605467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fccf9208de71bc50800000000000000
+      internalID: 6679259188589219064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 146
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5444011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db278687b0d77ca20800000000000000
+      internalID: 3082569958176617149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 19
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52421874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffac433262a5ad70800000000000000
+      internalID: 9053821168549408754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 16
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.5282553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb53a1a99545290800000000000000
+      internalID: -7902592927728812159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedbullFloat_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 14
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19103cd4fadddf030800000000000000
+      internalID: 3530221427921977745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1b0c0a05ca6b49248ced4ea7a7a9dd7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedbullFloat_0: -4320473283983800890
+      RedbullFloat_1: 5043833479073941088
+      RedbullFloat_10: 9053821168549408754
+      RedbullFloat_11: -7902592927728812159
+      RedbullFloat_12: 3530221427921977745
+      RedbullFloat_2: 1892844606969855066
+      RedbullFloat_3: -5571540227187257909
+      RedbullFloat_4: 5458430647335039743
+      RedbullFloat_5: 8162889701229154508
+      RedbullFloat_6: 5978495619422378251
+      RedbullFloat_7: 6433052055582518018
+      RedbullFloat_8: 6679259188589219064
+      RedbullFloat_9: 3082569958176617149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
