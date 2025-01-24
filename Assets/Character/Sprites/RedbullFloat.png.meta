@@ -1,46 +1,46 @@
 fileFormatVersion: 2
-guid: 4a4541f9966614449a79b5889868ecd9
+guid: 2d6964d7a607d4043b7a8715814be4e4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4320473283983800890
-    second: RedbullFloat_0
+      213: 1253391379393206445
+    second: RedbullWithDrops_0
   - first:
-      213: 5043833479073941088
-    second: RedbullFloat_1
+      213: 6655727937582099159
+    second: RedbullWithDrops_1
   - first:
-      213: 1892844606969855066
-    second: RedbullFloat_2
+      213: -1645042591773977242
+    second: RedbullWithDrops_2
   - first:
-      213: -5571540227187257909
-    second: RedbullFloat_3
+      213: 3588291539495184991
+    second: RedbullWithDrops_3
   - first:
-      213: 5458430647335039743
-    second: RedbullFloat_4
+      213: -1092330625186517193
+    second: RedbullWithDrops_4
   - first:
-      213: 8162889701229154508
-    second: RedbullFloat_5
+      213: 1647077513666292788
+    second: RedbullWithDrops_5
   - first:
-      213: 5978495619422378251
-    second: RedbullFloat_6
+      213: -928706748301222412
+    second: RedbullWithDrops_6
   - first:
-      213: 6433052055582518018
-    second: RedbullFloat_7
+      213: 6189871734527236229
+    second: RedbullWithDrops_7
   - first:
-      213: 6679259188589219064
-    second: RedbullFloat_8
+      213: 6215181491459371138
+    second: RedbullWithDrops_8
   - first:
-      213: 3082569958176617149
-    second: RedbullFloat_9
+      213: 1053320677152230976
+    second: RedbullWithDrops_9
   - first:
-      213: 9053821168549408754
-    second: RedbullFloat_10
+      213: 6521964060129973517
+    second: RedbullWithDrops_10
   - first:
-      213: -7902592927728812159
-    second: RedbullFloat_11
+      213: -7273612802054251492
+    second: RedbullWithDrops_11
   - first:
-      213: 3530221427921977745
-    second: RedbullFloat_12
+      213: -2227687362224262819
+    second: RedbullWithDrops_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -149,287 +149,287 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedbullFloat_0
+      name: RedbullWithDrops_0
       rect:
         serializedVersion: 2
         x: 43
         y: 268
-        width: 39
-        height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 42
+        height: 93
+      alignment: 9
+      pivot: {x: 0.46463305, y: 0.33628532}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c5849660789a04c0800000000000000
-      internalID: -4320473283983800890
+      spriteID: da8d44d91d0f46110800000000000000
+      internalID: 1253391379393206445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_1
+      name: RedbullWithDrops_1
       rect:
         serializedVersion: 2
         x: 173
         y: 271
-        width: 39
+        width: 42
         height: 92
       alignment: 9
-      pivot: {x: 0.4999996, y: 0.5242187}
+      pivot: {x: 0.46463305, y: 0.3869795}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 066cc6a63db4ff540800000000000000
-      internalID: 5043833479073941088
+      spriteID: 7da6931bb45ed5c50800000000000000
+      internalID: 6655727937582099159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_2
+      name: RedbullWithDrops_2
       rect:
         serializedVersion: 2
         x: 301
         y: 274
-        width: 39
+        width: 42
         height: 92
       alignment: 9
-      pivot: {x: 0.5, y: 0.5645832}
+      pivot: {x: 0.46463305, y: 0.4071619}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a5cb37d242cb44a10800000000000000
-      internalID: 1892844606969855066
+      spriteID: 6659ce48a72ab29e0800000000000000
+      internalID: -1645042591773977242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_3
+      name: RedbullWithDrops_3
       rect:
         serializedVersion: 2
         x: 429
         y: 280
-        width: 39
+        width: 42
         height: 92
       alignment: 9
-      pivot: {x: 0.49999923, y: 0.61302054}
+      pivot: {x: 0.46463305, y: 0.44752637}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcd44b2cea9eda2b0800000000000000
-      internalID: -5571540227187257909
+      spriteID: f5a6622c42c2cc130800000000000000
+      internalID: 3588291539495184991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_4
+      name: RedbullWithDrops_4
       rect:
         serializedVersion: 2
         x: 555
         y: 285
-        width: 39
+        width: 42
         height: 92
       alignment: 9
-      pivot: {x: 0.5, y: 0.57265604}
+      pivot: {x: 0.4734744, y: 0.45963553}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff2b285f0cd30cb40800000000000000
-      internalID: 5458430647335039743
+      spriteID: 73f2a74751347d0f0800000000000000
+      internalID: -1092330625186517193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_5
+      name: RedbullWithDrops_5
       rect:
         serializedVersion: 2
         x: 43
         y: 154
-        width: 39
+        width: 43
         height: 92
       alignment: 9
-      pivot: {x: 0.49047813, y: 0.58072895}
+      pivot: {x: 0.4568195, y: 0.5000002}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc055763fe8684170800000000000000
-      internalID: 8162889701229154508
+      spriteID: 43cec97a5489bd610800000000000000
+      internalID: 1647077513666292788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_6
+      name: RedbullWithDrops_6
       rect:
         serializedVersion: 2
-        x: 173
+        x: 169
         y: 152
-        width: 39
+        width: 46
         height: 92
       alignment: 9
-      pivot: {x: 0.5095215, y: 0.54843736}
+      pivot: {x: 0.51614577, y: 0.5242187}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0956e62712e7f250800000000000000
-      internalID: 5978495619422378251
+      spriteID: 4fd5ff602229c13f0800000000000000
+      internalID: -928706748301222412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_7
+      name: RedbullWithDrops_7
       rect:
         serializedVersion: 2
-        x: 301
+        x: 298
         y: 150
-        width: 39
+        width: 45
         height: 92
       alignment: 9
-      pivot: {x: 0.5, y: 0.54440093}
+      pivot: {x: 0.5, y: 0.5000002}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20ba792c2cac64950800000000000000
-      internalID: 6433052055582518018
+      spriteID: 5881ab51c87d6e550800000000000000
+      internalID: 6189871734527236229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_8
+      name: RedbullWithDrops_8
       rect:
         serializedVersion: 2
-        x: 429
+        x: 426
         y: 148
-        width: 39
+        width: 45
         height: 92
       alignment: 9
-      pivot: {x: 0.49999923, y: 0.5605467}
+      pivot: {x: 0.50825197, y: 0.47578132}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fccf9208de71bc50800000000000000
-      internalID: 6679259188589219064
+      spriteID: 280b40513a2c04650800000000000000
+      internalID: 6215181491459371138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_9
+      name: RedbullWithDrops_9
       rect:
         serializedVersion: 2
-        x: 555
+        x: 552
         y: 146
-        width: 39
+        width: 45
         height: 92
       alignment: 9
-      pivot: {x: 0.5, y: 0.5444011}
+      pivot: {x: 0.50825197, y: 0.4515628}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db278687b0d77ca20800000000000000
-      internalID: 3082569958176617149
+      spriteID: 04e8b3c33952e9e00800000000000000
+      internalID: 1053320677152230976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_10
+      name: RedbullWithDrops_10
       rect:
         serializedVersion: 2
-        x: 43
+        x: 40
         y: 19
-        width: 39
+        width: 42
         height: 92
       alignment: 9
-      pivot: {x: 0.5, y: 0.52421874}
+      pivot: {x: 0.526525, y: 0.4273441}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ffac433262a5ad70800000000000000
-      internalID: 9053821168549408754
+      spriteID: d0559e102cba28a50800000000000000
+      internalID: 6521964060129973517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_11
+      name: RedbullWithDrops_11
       rect:
         serializedVersion: 2
-        x: 173
+        x: 170
         y: 16
-        width: 39
+        width: 42
         height: 92
       alignment: 9
-      pivot: {x: 0.4999996, y: 0.5282553}
+      pivot: {x: 0.53536695, y: 0.3950529}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 18fb53a1a99545290800000000000000
-      internalID: -7902592927728812159
+      spriteID: c1c92db91bfee0b90800000000000000
+      internalID: -7273612802054251492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedbullFloat_12
+      name: RedbullWithDrops_12
       rect:
         serializedVersion: 2
-        x: 301
+        x: 298
         y: 14
-        width: 39
+        width: 42
         height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.53536695, y: 0.3546881}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19103cd4fadddf030800000000000000
-      internalID: 3530221427921977745
+      spriteID: d51fef7952aa511e0800000000000000
+      internalID: -2227687362224262819
       vertices: []
       indices: 
       edges: []
@@ -438,7 +438,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b1b0c0a05ca6b49248ced4ea7a7a9dd7
+    spriteID: cb14173f57b98421681db9ca1013a272
     internalID: 0
     vertices: []
     indices: 
@@ -448,19 +448,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RedbullFloat_0: -4320473283983800890
-      RedbullFloat_1: 5043833479073941088
-      RedbullFloat_10: 9053821168549408754
-      RedbullFloat_11: -7902592927728812159
-      RedbullFloat_12: 3530221427921977745
-      RedbullFloat_2: 1892844606969855066
-      RedbullFloat_3: -5571540227187257909
-      RedbullFloat_4: 5458430647335039743
-      RedbullFloat_5: 8162889701229154508
-      RedbullFloat_6: 5978495619422378251
-      RedbullFloat_7: 6433052055582518018
-      RedbullFloat_8: 6679259188589219064
-      RedbullFloat_9: 3082569958176617149
+      RedbullWithDrops_0: 1253391379393206445
+      RedbullWithDrops_1: 6655727937582099159
+      RedbullWithDrops_10: 6521964060129973517
+      RedbullWithDrops_11: -7273612802054251492
+      RedbullWithDrops_12: -2227687362224262819
+      RedbullWithDrops_2: -1645042591773977242
+      RedbullWithDrops_3: 3588291539495184991
+      RedbullWithDrops_4: -1092330625186517193
+      RedbullWithDrops_5: 1647077513666292788
+      RedbullWithDrops_6: -928706748301222412
+      RedbullWithDrops_7: 6189871734527236229
+      RedbullWithDrops_8: 6215181491459371138
+      RedbullWithDrops_9: 1053320677152230976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

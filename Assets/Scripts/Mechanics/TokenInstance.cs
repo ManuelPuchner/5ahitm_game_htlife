@@ -10,6 +10,8 @@ namespace Platformer.Mechanics
     public enum TokenType
     {
         Redbull,
+        Sleep,
+        Studying,
         Default
     }
 
@@ -61,6 +63,28 @@ namespace Platformer.Mechanics
         void OnPlayerEnter(PlayerController player)
         {
             if (collected) return;
+
+            
+            var health = player.GetComponent<Health>();
+
+            if(tokenType == TokenType.Redbull)
+            {
+                health.IncrementEnergy(20);
+            }
+            else if(tokenType == TokenType.Sleep)
+            {
+                health.IncrementSleep(20);
+            }
+            else if(tokenType == TokenType.Studying)
+            {
+                health.IncrementGrades(1);
+            }
+            else
+            {
+                health.Increment();
+            }
+            
+
             //disable the gameObject and remove it from the controller update list.
             frame = 0;
             sprites = collectedAnimation;
